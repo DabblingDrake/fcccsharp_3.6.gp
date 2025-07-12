@@ -1,12 +1,6 @@
-# Test
+# freeCodeCamp Foundational C# with Microsoft.
 
-### Hello
-- dfs
-    - sdfs
-- ss
+## Part 3: Add Logic to C# Console Applications
+### Unit 6: Guided Project: Develop conditional brancing and looping structures in C# [Link to Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/guided-project-develop-conditional-branching-looping/)
 
-sjka;sdkasdja;dlja
-dadskoljad
-asdlkjadslkj
-
-[LINK HERE](https://www.freecodecamp.org)
+ 
